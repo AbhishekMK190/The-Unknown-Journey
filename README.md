@@ -11,7 +11,7 @@ Along the way, you'll encounter:
 - **Slime enemies** that try to stop your progress
 - **Coins** to collect and boost your score
 
-More enemies are planned to be added soon, along with new and challenging maps — so stay tuned for updates!
+More enemies and shop system are planned to be added soon, along with new and challenging maps — so stay tuned for updates!
 
 ## Game Engine
 
