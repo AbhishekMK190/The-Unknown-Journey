@@ -1,39 +1,26 @@
-🎮 Welcome to My Game Project!
-Hello everyone! 👋
+# My Godot Game Project
 
-This is a game I've been working on over the past week, and I'm super excited to share it with you!
+Hello everyone,
 
-🛠️ Game Engine Used: Godot Engine
-Godot is a powerful and beginner-friendly open-source game engine that's perfect for anyone looking to step into the world of game development. I highly recommend it for aspiring developers due to its simplicity, flexibility, and active community.
+This is a game I've been working on for the past **week**, and I'm excited to share it with you.
 
-🚀 Features
-Developed entirely using Godot
+## Game Engine
 
-Fun and interactive gameplay
+The game is built using the [Godot Engine](https://godotengine.org/), a powerful and user-friendly open-source engine.  
+It's a great choice for beginners who want to enter the game development field.
 
-Built with passion and a love for game development
+## Features
 
-📌 Note
-This is just the beginning! I’ll be adding more features and polish in the coming weeks. Your feedback is welcome!
+- Developed entirely in **Godot**
+- Simple, fun, and interactive gameplay
+- Clean and beginner-friendly code structure
 
-Thank you for checking out my project!
-Feel free to fork, play around, or contribute 😊🎮 Welcome to My Game Project!
-Hello everyone! 👋
+## Note
 
-This is a game I've been working on over the past week, and I'm super excited to share it with you!
+This is just the initial version. More features and improvements will be added soon.  
+Feedback is welcome and appreciated!
 
-🛠️ Game Engine Used: Godot Engine
-Godot is a powerful and beginner-friendly open-source game engine that's perfect for anyone looking to step into the world of game development. I highly recommend it for aspiring developers due to its simplicity, flexibility, and active community.
+---
 
-🚀 Features
-Developed entirely using Godot
-
-Fun and interactive gameplay
-
-Built with passion and a love for game development
-
-📌 Note
-This is just the beginning! I’ll be adding more features and polish in the coming weeks. Your feedback is welcome!
-
-Thank you for checking out my project!
-Feel free to fork, play around, or contribute 😊
+Thank you for checking out my project.  
+Feel free to **fork**, **explore**, or **contribute**!
